@@ -4,6 +4,9 @@
 
 ### MUD
 
+SkyStrife - MMORTS
+https://github.com/latticexyz/skystrife-public
+
 Autochess - Chess
 https://github.com/HelheimLabs/autochessia
 
